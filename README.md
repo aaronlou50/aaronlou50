@@ -8,7 +8,7 @@ I'm an Software Engineer student with a focus in Artificial Intelligence and Mac
 - 🛠 **[FLIP](https://github.com/GarvChhokra/FLIP-SESN-Hackathon)**: An ML model to predict medication-induced fall risk in additon to gait analysis to address to challenge of fall prevention for residents with dementia in retirement homes (3rd place in 2024 WIMTACH x SESN Hackathon).
 - 🏳️‍⚧️ **[Gender Affirming, Life Affirming](https://www.giantyouth.com)**: An interactive web application aiming to education gender-diverse youths about puberty health for a research projectb (Part-time contract work at WIMTACH).
 
-### 🚀 I'm Working On
+### 🚀 I'm working on
 
 - Building a **web application for social media managers** with AI features such as blurred image filtering, semantic photo search engine, AI image captioning, and RAG (retrieval-augmented generation).
 - Developing a **recommendation system** for toys and games sold on Amazon based on customers' reviews using sentiment analysis.
@@ -17,7 +17,7 @@ I'm an Software Engineer student with a focus in Artificial Intelligence and Mac
 ### 🗿 Favourite programming dad joke at the moment
 ![image](https://github.com/user-attachments/assets/7227f9ae-8721-479f-8aa0-6e1c0d8220d8)
 
-### 📫 Connect with Me
+### 📫 Connect with me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aaron-lou-codes/" target="_blank">
@@ -26,7 +26,7 @@ I'm an Software Engineer student with a focus in Artificial Intelligence and Mac
 </div>
 
 ###
-### 📊 GitHub Stats (working on it!)
+### 📊 GitHub stats (working on it!)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaronlou50&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronlou50&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
